@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodsApp</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="food">Food</string>
+    <string name="name">Name: %s</string>
+    <string name="price">Price: %d</string>
+    <string name="category">Category: %s</string>
+    <string name="order_amount">Order amount: %d</string>
+    <string name="amount">Amount</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="delete">Delete</string>
+</resources>
